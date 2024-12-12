@@ -2,6 +2,7 @@
 ## Revised Topic: Converting images of Six Bird Species into Grayscale.
 
 ## Table of Contents
+1. [Introduction](##Introduction)
 
 
 ## Introduction
