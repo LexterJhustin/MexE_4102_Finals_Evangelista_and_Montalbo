@@ -36,7 +36,7 @@ print(gray.shape)
 cv2_imshow(gray)
 
 
-```
+```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/BARN OWL/001.jpg")
