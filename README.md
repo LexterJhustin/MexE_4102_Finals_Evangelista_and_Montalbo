@@ -25,7 +25,7 @@ This project investigates the impact of converting bird species images to graysc
 ## Additional Materials
 
 ### Six Bird Species
-1. **American Goldfinch**
+#### 1. **American Goldfinch**
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -38,7 +38,7 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
-2. **Barn Owl**
+#### 2. **Barn Owl**
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -51,7 +51,7 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
-3.**Carmine Bee-Eater**
+#### 3.**Carmine Bee-Eater**
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -64,7 +64,7 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
-4. **Downy Woodpecker**
+#### 4. **Downy Woodpecker**
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -77,7 +77,7 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
-5. **Emperor Penguin**
+#### 5. **Emperor Penguin**
 ``` Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -90,7 +90,7 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
-6. **Flamingo**
+#### 6. **Flamingo**
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
