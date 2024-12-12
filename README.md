@@ -47,4 +47,3 @@ cv2_imshow(img)
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
-```
