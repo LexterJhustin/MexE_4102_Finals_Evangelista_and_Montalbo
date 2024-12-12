@@ -23,6 +23,7 @@ This project investigates the impact of converting bird species images to graysc
 
 ## Additional Materials
 
+```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/AMERICAN GOLDFINCH/001.jpg")
