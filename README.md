@@ -5,6 +5,8 @@
 
 
 ## Introduction
+- Datasets for bird species are crucial to biodiversity studies and development of computer vision models for species identification and monitoring of their ecological status.
+- It includes annotated images with various types of bird species in their different environments.
 
 ## Abstract
 
