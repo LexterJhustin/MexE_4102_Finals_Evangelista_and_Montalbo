@@ -23,6 +23,7 @@ This project investigates the impact of converting bird species images to graysc
 
 ## Additional Materials
 
+### The First Bird Species Which is American Golfinch 
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -34,8 +35,8 @@ cv2_imshow(img)
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
-
-
+```
+### The second one is Barn Owl
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
@@ -47,3 +48,4 @@ cv2_imshow(img)
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
+```
