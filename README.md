@@ -21,6 +21,11 @@ This project investigates the impact of converting bird species images to graysc
 
 ## Project Method
 
+When working with image datasets like the bird species dataset, cv2 is often used for tasks such as:
+
+- Reading and writing image files (cv2.imread and cv2.imwrite).
+- Converting images between color spaces (e.g., RGB to Grayscale with cv2.cvtColor).
+- Visualizing images using OpenCV's display functionality (cv2.imshow).
 ## Conclusion
 
 ## Additional Materials
