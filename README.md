@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Abstract](#Abstract)
-3. [Project Method](#Project-Method)_
+3. [Project Method](#Project-Method)
 4. [Conclusion](#Conclusion)
 5. [Additional Materials](#Additional-Materials)
 
