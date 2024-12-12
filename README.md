@@ -6,9 +6,11 @@
 
 ## Introduction
 - Datasets for bird species are crucial to biodiversity studies and development of computer vision models for species identification and monitoring of their ecological status.
-- It includes annotated images with various types of bird species in their different environments.
+- Converting bird species images to grayscale removes color information, compelling models to rely solely on structural features such as texture, shape, and patterns for classification.
+- This problem addresses the robustness and adaptability of computer vision models in scenarios where color data is unavailable or unreliable
 
 ## Abstract
+This project investigates the impact of converting bird species images to grayscale on the performance of computer vision models.
 
 ## Project Method
 
