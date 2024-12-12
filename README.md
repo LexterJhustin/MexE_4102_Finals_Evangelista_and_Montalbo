@@ -50,3 +50,55 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+3.**Carmine Bee-Eater**
+```Google Colab
+import cv2
+from google.colab.patches import cv2_imshow
+img = cv2.imread("drive/MyDrive/Bird Species Dataset/CARMINE BEE-EATER/001.jpg")
+#img = cv2.resize(img,(500,500))
+print(img.shape)
+cv2_imshow(img)
+
+gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+print(gray.shape)
+cv2_imshow(gray)
+```
+4. **Downy Woodpecker**
+```Google Colab
+import cv2
+from google.colab.patches import cv2_imshow
+img = cv2.imread("drive/MyDrive/Bird Species Dataset/DOWNY WOODPECKER/001.jpg")
+#img = cv2.resize(img,(500,500))
+print(img.shape)
+cv2_imshow(img)
+
+gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+print(gray.shape)
+cv2_imshow(gray)
+```
+5. **Emperor Penguin**
+``` Google Colab
+import cv2
+from google.colab.patches import cv2_imshow
+img = cv2.imread("drive/MyDrive/Bird Species Dataset/EMPEROR PENGUIN/001.jpg")
+#img = cv2.resize(img,(500,500))
+print(img.shape)
+cv2_imshow(img)
+
+gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+print(gray.shape)
+cv2_imshow(gray)
+```
+6. **Flamingo**
+```Google Colab
+import cv2
+from google.colab.patches import cv2_imshow
+img = cv2.imread("drive/MyDrive/Bird Species Dataset/FLAMINGO/001.jpg")
+#img = cv2.resize(img,(500,500))
+print(img.shape)
+cv2_imshow(img)
+
+gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+print(gray.shape)
+cv2_imshow(gray)
+```
