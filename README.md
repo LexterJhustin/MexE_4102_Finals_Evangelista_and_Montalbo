@@ -75,6 +75,7 @@ This methodology ensured a structured approach to preprocessing and grayscale co
 ## Conclusion
 
 Transforming images to grayscale is a key step in image processing as it simplifies the data and emphasizes essential details. This project demonstrates the process using OpenCV, focusing on images captured by outdoor surveillance cameras.
+
 **Findings**
 The project focused on converting images of six bird species into grayscale and analyzing the impact on the performance of computer vision models for species classification. The species included were American Goldfinch, Barn Owl, Carmine Bee-Eater, Downy Woodpecker, Emperor Penguin, and Flamingo. The dataset was processed using OpenCV, specifically employing functions like cv2.imread for reading images and cv2.cvtColor for converting images to grayscale.
 
