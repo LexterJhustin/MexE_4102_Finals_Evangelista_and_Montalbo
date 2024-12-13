@@ -1,5 +1,5 @@
-# Final Project in Electives 2
-## Course: MeXE 402 - Mechatronics Engineering Elective 2: Data Science and Machine Learning
+
+# MeXE 402 - Mechatronics Engineering Elective 2: Data Science and Machine Learning
 ## Revised Topic: Converting images of Six Bird Species into Grayscale.
 
 **Link of our Dataset**
@@ -29,9 +29,11 @@ This project investigates the impact of converting bird species images to graysc
 
 When working with image datasets like the bird species dataset, cv2 is often used for tasks such as:
 
-- Reading and writing image files (cv2.imread and cv2.imwrite).
+- Reading image files (cv2.imread).
 - Converting images between color spaces (e.g., RGB to Grayscale with cv2.cvtColor).
 - Visualizing images using OpenCV's display functionality (cv2.imshow).
+
+
 ## Conclusion
 
 ## Additional Materials
