@@ -50,6 +50,7 @@ print(gray.shape)
 cv2_imshow(gray)
 ```
 (224, 224, 3)
+
 ![image](https://github.com/user-attachments/assets/6c55baaf-b55a-4f94-845b-848d3230e2ad)
 
 
