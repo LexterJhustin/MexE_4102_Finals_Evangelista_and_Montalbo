@@ -8,7 +8,7 @@
 4. [Conclusion](#Conclusion)
 5. [Additional Materials](#Additional-Materials)
    - [Six Bird Species](#Six-Bird-Species)
-      1. [American Goldfinch](#American-Goldfinch)
+      1. [American Goldfinch](#**American-Goldfinch**)
       2. [Barn Owl](#**Barn-Owl**)
       3. [Carmine Bee-Eater](#**Carmine-Bee-Eater**)
       4. [Downy Woodpecker](#**Downy-Woodpecker**)
