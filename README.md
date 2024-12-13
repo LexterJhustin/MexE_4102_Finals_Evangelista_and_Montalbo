@@ -36,8 +36,9 @@ Advancements in Computer Vision: Tackling the challenges of fine-grained image c
 - This problem addresses the robustness and adaptability of computer vision models in scenarios where color data is unavailable or unreliable
 
 ## Abstract
-This project investigates the impact of converting bird species images to grayscale on the performance of computer vision models.
+
    This project explores the impact of converting images of six bird species into grayscale on the performance of computer vision models. By removing color information, the models are challenged to rely solely on structural features such as texture, shape, and patterns for species classification. The approach involves processing bird images using OpenCV for grayscale conversion and visualization. This study aims to evaluate the adaptability and robustness of computer vision techniques in scenarios where color data is unavailable, with applications in biodiversity monitoring, wildlife conservation, and fine-grained image classification advancements.
+   
 ## Project Method
 
 When working with image datasets like the bird species dataset, cv2 is often used for tasks such as:
