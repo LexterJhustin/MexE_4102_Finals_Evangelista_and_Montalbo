@@ -69,6 +69,7 @@ When working with image datasets like the bird species dataset, cv2 is often use
 - Printed the dimensions of both RGB and grayscale images to confirm the number of channels and resolution consistency.
   
 **Repeat for Each Species:**
+
 -Applied the above steps iteratively for images from all six bird species.
 -This methodology ensured a structured approach to preprocessing and grayscale conversion, facilitating further analysis and modeling.
 
@@ -82,6 +83,7 @@ Transforming images to grayscale is a key step in image processing as it simplif
    The project focused on converting images of six bird species into grayscale and analyzing the impact on the performance of computer vision models for species classification. The species included were American Goldfinch, Barn Owl, Carmine Bee-Eater, Downy Woodpecker, Emperor Penguin, and Flamingo. The dataset was processed using OpenCV, specifically employing functions like cv2.imread for reading images and cv2.cvtColor for converting images to grayscale.
 
 **Challenges**
+
 - Dataset Handling: Ensuring the dataset was correctly structured and accessible for processing posed an initial challenge. Each bird species had a subdirectory, and images needed to be read and processed individually.
 
 - Image Processing: Converting images to grayscale removed color information, which can be significant for distinguishing species with similar structural features but different colors. This necessitated a focus on enhancing the model's ability to recognize patterns, shapes, and textures.
@@ -89,6 +91,7 @@ Transforming images to grayscale is a key step in image processing as it simplif
 Model Performance: Evaluating the model's performance after removing color information required careful consideration. Ensuring that the grayscale images retained enough distinctive features for accurate classification was crucial.
 
 **Outcomes**
+
 - Simplified Image Data: Transforming images to grayscale significantly simplified the data, reducing the complexity of the input without losing essential structural details. This step highlighted the model's capability to classify bird species based solely on texture and shape.
 
 - Robust Model Development: The project demonstrated that computer vision models could still perform effectively in scenarios where color data is unavailable or unreliable. This has implications for real-world applications, such as monitoring wildlife with cameras that capture grayscale images.
