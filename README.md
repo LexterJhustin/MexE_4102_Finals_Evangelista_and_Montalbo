@@ -50,11 +50,13 @@ cv2_imshow(gray)
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
+
+#Colorful image - 3 Channels
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/BARN OWL/001.jpg")
-#img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
 
+# Grayscale image
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
@@ -63,11 +65,13 @@ cv2_imshow(gray)
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
+
+#Colorful image - 3 Channels
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/CARMINE BEE-EATER/001.jpg")
-#img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
 
+# Grayscale image
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
@@ -76,11 +80,13 @@ cv2_imshow(gray)
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
+
+#Colorful image - 3 Channels
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/DOWNY WOODPECKER/001.jpg")
-#img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
 
+# Grayscale image
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
@@ -89,11 +95,13 @@ cv2_imshow(gray)
 ``` Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
+
+#Colorful image - 3 Channels
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/EMPEROR PENGUIN/001.jpg")
-#img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
 
+# Grayscale image
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
@@ -102,11 +110,14 @@ cv2_imshow(gray)
 ```Google Colab
 import cv2
 from google.colab.patches import cv2_imshow
+
+#Colorful image - 3 Channels
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/FLAMINGO/001.jpg")
 #img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
 
+# Grayscale image
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
