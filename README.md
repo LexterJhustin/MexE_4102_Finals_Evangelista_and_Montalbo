@@ -50,8 +50,8 @@ When working with image datasets like the bird species dataset, cv2 is often use
 
 **Dataset Preparation:**
 
-Accessed the "Bird Species Dataset" containing images of six bird species: American Goldfinch, Barn Owl, Carmine Bee-Eater, Downy Woodpecker, Emperor Penguin, and Flamingo.
-Organized images in respective directories for efficient processing.
+- Accessed the "Bird Species Dataset" containing images of six bird species: American Goldfinch, Barn Owl, Carmine Bee-Eater, Downy Woodpecker, Emperor Penguin, and Flamingo.
+- Organized images in respective directories for efficient processing.
 
 **Image Reading:**
 - Loaded images using OpenCV's cv2.imread function, specifying the file path for each bird species.
