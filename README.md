@@ -1,4 +1,5 @@
 # Final Project in Electives 2
+## Course: MeXE 402 - Mechatronics Engineering Elective 2: Data Science and Machine Learning
 ## Revised Topic: Converting images of Six Bird Species into Grayscale.
 
 **Link of our Dataset**
