@@ -49,14 +49,15 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+```
 (224, 224, 3)
 
 ![image](https://github.com/user-attachments/assets/6c55baaf-b55a-4f94-845b-848d3230e2ad)
-
+```
 (224,224)
 
 ![image](https://github.com/user-attachments/assets/1633d68a-7d53-4e98-bcce-7eca907e5a6a)
-
+```
 
 2. **Barn Owl**
 ```Google Colab
@@ -73,6 +74,16 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+```
+(224,224, 3)
+
+![image](https://github.com/user-attachments/assets/39cc1a8c-d91c-4795-bbb9-25e67dbbc787)
+
+(224,224)
+
+![image](https://github.com/user-attachments/assets/5752554d-bf62-45cf-ac0f-477c1774bb26)
+````
+
 3.**Carmine Bee-Eater**
 ```Google Colab
 import cv2
@@ -88,6 +99,16 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+```
+(224,224, 3)
+
+![image](https://github.com/user-attachments/assets/4e887e60-2c0d-427d-a17b-6d8077c70bec)
+
+(224,224)
+
+![image](https://github.com/user-attachments/assets/d96c537a-d238-42c0-a254-ef83185e27b7)
+```
+
 4. **Downy Woodpecker**
 ```Google Colab
 import cv2
@@ -103,6 +124,16 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+```
+(224,224, 3)
+
+![image](https://github.com/user-attachments/assets/8a36a9c2-3c9e-4b51-b421-e1c161f3bd6c)
+
+(224,224)
+
+![image](https://github.com/user-attachments/assets/de0ea5b5-2af0-43fc-b78f-369ea2d6ef58)
+```
+
 5. **Emperor Penguin**
 ``` Google Colab
 import cv2
@@ -118,6 +149,16 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+```
+(224,224, 3)
+
+![image](https://github.com/user-attachments/assets/48bfe7f5-5b69-425a-a24a-3f53bdf073cc)
+
+(224,224)
+
+![image](https://github.com/user-attachments/assets/bd845f22-3bf3-4707-ad8a-828a323eb49a)
+```
+
 6. **Flamingo**
 ```Google Colab
 import cv2
@@ -134,6 +175,16 @@ gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
 cv2_imshow(gray)
 ```
+```
+(224,224, 3)
+
+![image](https://github.com/user-attachments/assets/156584ee-3dc0-41aa-bfa5-fe09c75ac12b)
+
+(224,224)
+
+![image](https://github.com/user-attachments/assets/dd346920-df36-4877-b459-fcad8fd6a95f)
+```
+
 ### References
 1. RAHMA SLEAM *Bird Speciees Dataset* [Link](https://www.kaggle.com/datasets/rahmasleam/bird-speciees-dataset)
 2. Misbah Mohammed *OpenCV Tutorial*[Link](https://youtu.be/E3Lg4aZVCAU?si=IMGIsYiZ-dFTSPL3)
