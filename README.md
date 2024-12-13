@@ -157,7 +157,6 @@ from google.colab.patches import cv2_imshow
 
 #Colorful image - 3 Channels
 img = cv2.imread("drive/MyDrive/Bird Species Dataset/FLAMINGO/001.jpg")
-#img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
 
