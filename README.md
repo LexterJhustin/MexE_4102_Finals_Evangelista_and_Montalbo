@@ -55,14 +55,19 @@ When working with image datasets like the bird species dataset, cv2 is often use
 
 **Image Reading:**
 - Loaded images using OpenCV's cv2.imread function, specifying the file path for each bird species.
+  
 **Colorful Image Visualization:**
 - Displayed the original RGB images using cv2_imshow to verify their dimensions and content.
+  
 **Grayscale Conversion:**
 - Converted each colorful image to grayscale using OpenCV's cv2.cvtColor with the cv2.COLOR_BGR2GRAY parameter.
+  
 **Grayscale Visualization:**
 - Displayed the grayscale images using cv2_imshow to verify the conversion.
+  
 **Image Shape Validation:**
 - Printed the dimensions of both RGB and grayscale images to confirm the number of channels and resolution consistency.
+  
 **Repeat for Each Species:**
 -Applied the above steps iteratively for images from all six bird species.
 -This methodology ensured a structured approach to preprocessing and grayscale conversion, facilitating further analysis and modeling.
