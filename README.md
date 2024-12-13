@@ -8,6 +8,12 @@
 4. [Conclusion](#Conclusion)
 5. [Additional Materials](#Additional-Materials)
    - [Six Bird Species](#Six-Bird-Species)
+      1. [American Goldfinch](#American-Goldfinch)
+      2. [Barn Owl](#Barn-Owl)
+      3. [Carmine Bee-Eater](#Carmine-Bee-Eater)
+      4. [Downy Woodpecker](#Downy-Woodpecker)
+      5. [Emperor Penguin](#Emperor-Penguin)
+      6. [Flamingo](#Flamingo)
 6. [References](#References)
 
 
@@ -31,6 +37,7 @@ When working with image datasets like the bird species dataset, cv2 is often use
 ## Additional Materials
 
 ### Six Bird Species
+- Preprocessing scripts for grayscale conversion.
 #### 1. **American Goldfinch**
 ```Google Colab
 import cv2
