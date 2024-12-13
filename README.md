@@ -41,13 +41,7 @@ Advancements in Computer Vision: Tackling the challenges of fine-grained image c
    
 ## Project Method
 
-When working with image datasets like the bird species dataset, cv2 is often used for tasks such as:
-
-- Reading image files (cv2.imread).
-- Converting images between color spaces (e.g., RGB to Grayscale with cv2.cvtColor).
-- Visualizing images using OpenCV's display functionality (cv2.imshow).
-
-**Project Methods (Step-by-Step):**
+**(Step-by-Step):**
 
 **Dataset Preparation:**
 
