@@ -247,6 +247,8 @@ cv2_imshow(gray)
 2. Misbah Mohammed *OpenCV Tutorial*[Link](https://youtu.be/E3Lg4aZVCAU?si=IMGIsYiZ-dFTSPL3)
 3. MikkoDT. *Finals Instructions* [Link](https://github.com/MikkoDT/MeXEE402_Finals_4102)
 
-**Group Menber**
+**Group Member**
+
 Evangelista, Lexter Jhustin L.(20-60481)
+
 Montalbo, Christian Kent (20-xxxx)
