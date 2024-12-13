@@ -248,7 +248,5 @@ cv2_imshow(gray)
 3. MikkoDT. *Finals Instructions* [Link](https://github.com/MikkoDT/MeXEE402_Finals_4102)
 
 **Group Member**
-
-Evangelista, Lexter Jhustin L.(20-60481)
-
-Montalbo, Christian Kent (20-xxxx)
+- Evangelista, Lexter Jhustin L.(20-60481)
+- Montalbo, Christian Kent (20-xxxx)
