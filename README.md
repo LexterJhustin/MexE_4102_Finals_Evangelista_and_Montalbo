@@ -50,6 +50,8 @@ print(gray.shape)
 cv2_imshow(gray)
 ```
 ![image](https://github.com/user-attachments/assets/6c55baaf-b55a-4f94-845b-848d3230e2ad)
+
+
 2. **Barn Owl**
 ```Google Colab
 import cv2
