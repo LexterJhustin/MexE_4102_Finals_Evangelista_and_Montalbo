@@ -48,7 +48,8 @@ When working with image datasets like the bird species dataset, cv2 is often use
 
 
 ## Conclusion
-   Transforming images to grayscale is a key step in image processing as it simplifies the data and emphasizes essential details. This project demonstrates the process using OpenCV, focusing on images captured by outdoor surveillance cameras.
+
+Transforming images to grayscale is a key step in image processing as it simplifies the data and emphasizes essential details. This project demonstrates the process using OpenCV, focusing on images captured by outdoor surveillance cameras.
 ## Additional Materials
 
 ### Six Bird Species
