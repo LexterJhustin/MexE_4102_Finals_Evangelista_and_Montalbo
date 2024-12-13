@@ -245,4 +245,4 @@ cv2_imshow(gray)
 
 **Group Member**
 - Evangelista, Lexter Jhustin L.(20-60481)
-- Montalbo, Christian Kent (20-xxxx)
+- Montalbo, Christian Kent (19-xxxx)
