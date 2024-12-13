@@ -41,6 +41,8 @@ img = cv2.imread("drive/MyDrive/Bird Species Dataset/AMERICAN GOLDFINCH/001.jpg"
 #img = cv2.resize(img,(500,500))
 print(img.shape)
 cv2_imshow(img)
+![image](https://github.com/user-attachments/assets/6c55baaf-b55a-4f94-845b-848d3230e2ad)
+
 
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 print(gray.shape)
