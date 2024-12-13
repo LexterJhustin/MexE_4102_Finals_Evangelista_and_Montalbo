@@ -70,8 +70,8 @@ When working with image datasets like the bird species dataset, cv2 is often use
   
 **Repeat for Each Species:**
 
--Applied the above steps iteratively for images from all six bird species.
--This methodology ensured a structured approach to preprocessing and grayscale conversion, facilitating further analysis and modeling.
+- Applied the above steps iteratively for images from all six bird species.
+- This methodology ensured a structured approach to preprocessing and grayscale conversion, facilitating further analysis and modeling.
 
 
 ## Conclusion
