@@ -6,10 +6,6 @@
 
 Bird Species Dataset[Link](https://drive.google.com/drive/folders/1ClZXsBIiUZ3M1lgg9_OkRYEsIA749okt?usp=drive_link)
 
-**Link of our video**
-
-Video[link]()
-
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Abstract](#Abstract)
