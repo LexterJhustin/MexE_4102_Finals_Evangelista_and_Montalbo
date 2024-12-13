@@ -53,6 +53,10 @@ cv2_imshow(gray)
 
 ![image](https://github.com/user-attachments/assets/6c55baaf-b55a-4f94-845b-848d3230e2ad)
 
+(224,224)
+
+![image](https://github.com/user-attachments/assets/1633d68a-7d53-4e98-bcce-7eca907e5a6a)
+
 
 2. **Barn Owl**
 ```Google Colab
